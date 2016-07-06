@@ -1,0 +1,13 @@
+[
+    {
+        "provider": "ovh",
+        "config": {
+            "endpoint": "ovh-eu",
+            "appKey": "c3QJVJ5uGFScr12e",
+            "appSecret": "ZipcQM3FxE00cqL4ErOQmMeVJujLHLu2",
+            "consumerKey": "",
+            "domain": "",
+            "subDomain": ""
+        }
+    }
+]

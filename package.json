@@ -1,0 +1,24 @@
+{
+  "name": "DNS-Autoupdate",
+  "version": "1.0.0",
+  "description": "Autoupdate your domain DNS with your public IP for Raspberry Pi, Mac, Windows and Linux.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiMA10/RaspberryPiDNSUpdate.git"
+  },
+  "author": "Santiago M.A.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiMA10/RaspberryPiDNSUpdate/issues"
+  },
+  "homepage": "https://github.com/SantiMA10/RaspberryPiDNSUpdate#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "ovh": "^2.0.0",
+    "public-ip": "^2.0.1"
+  }
+}
