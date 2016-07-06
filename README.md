@@ -11,12 +11,14 @@ For this reason I made a NodeJS script that you can program the execution with a
 
 Download the [last release](https://github.com/SantiMA10/DNS-Autoupdate/releases), unzip it and download all the dependencies with **npm install**.
 
+First of all add your domain, with subdomain if is need, on the setting for your/s domain providers.
+
 Now have to run the **"auth.js"** script on **"/services/{service name}/"**, for example: "/service/ovh/auth.js", and get a link to authorize the app, if you want to program the execution I recomend to set the **Validity** on **Unlimited**.
 
-Once you visit the link and now you can run it using **node app.js** or program the execution with CronTab.
+Once you visit the link and now you can run it using **node app.js** and/or program the execution with CronTab.
 
 ## Compatible domain providers
-* OVH by [@SantiMA10](http://twitter.com)
+* OVH by [@SantiMA10](http://twitter.com/SantiMA10)
 
 ### Issues and contributing
 
@@ -26,7 +28,7 @@ Please report any [issues](https://github.com/SantiMA10/Internet-Status-Check/is
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Santiago Martín - [http://SantiMA.xyz](http://santima.xyz) - [@SantiMA10](http://twitter.com)
+Copyright (c) 2016 Santiago Martín - [http://SantiMA.xyz](http://santima.xyz) - [@SantiMA10](http://twitter.com/SantiMA10)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
