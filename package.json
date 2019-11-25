@@ -19,6 +19,6 @@
   "dependencies": {
     "fs": "0.0.2",
     "ovh": "^2.0.0",
-    "public-ip": "^3.1.0"
+    "public-ip": "^4.0.0"
   }
 }
